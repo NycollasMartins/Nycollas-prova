@@ -1,0 +1,6 @@
+#include<stdio.h>
+
+int main () {
+	printf("Nome da disciplina: Algoritmo e programação\nNome da professora: Joyce Sirqueira\nNome do aluno: Nycollas Passos Martins\nMatricula: 2011002500\nCurso: Ciencia da computação\nLink github: https://github.com/NycollasMartins\nSoftware: DevC ++");
+	
+}
