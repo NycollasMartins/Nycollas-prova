@@ -1,0 +1,15 @@
+#include<stdio.h>
+
+int main(){
+	
+	int prova;
+	printf("Insira a opcao");
+	scanf("%c, &prova");
+	
+	switch (prova){
+		case 'a': printf("opção A"); break;
+		case 'b': printf("opção B"); break;
+		case 'c': printf("opção C"); break;
+		default: printf("Opção invalida"); break;
+	}
+}
